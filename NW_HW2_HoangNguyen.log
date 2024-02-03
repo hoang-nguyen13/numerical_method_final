@@ -1,0 +1,176 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.5)  3 FEB 2024 17:06
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/hoangnguyen/numerical_method_final/NW_HW2_HoangNguyen.tex
+(/Users/hoangnguyen/numerical_method_final/NW_HW2_HoangNguyen.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count194
+\l__lipsum_a_int=\count195
+\l__lipsum_b_int=\count196
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (./NW_HW2_HoangNguyen.aux)
+\openout1 = `NW_HW2_HoangNguyen.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+ (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen143
+\scratchbox=\box52
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen144
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+<prob_density.png, id=1, 568.524pt x 351.2322pt>
+File: prob_density.png Graphic file (type png)
+<use prob_density.png>
+Package pdftex.def Info: prob_density.png  used on input line 28.
+(pdftex.def)             Requested size: 183.6007pt x 113.4256pt.
+<biased_junction.png, id=2, 568.524pt x 351.2322pt>
+File: biased_junction.png Graphic file (type png)
+<use biased_junction.png>
+Package pdftex.def Info: biased_junction.png  used on input line 33.
+(pdftex.def)             Requested size: 183.6007pt x 113.4256pt.
+<roughly_biased_junction_spectra(-0.1eV).png, id=3, 568.524pt x 351.2322pt>
+File: roughly_biased_junction_spectra(-0.1eV).png Graphic file (type png)
+<use roughly_biased_junction_spectra(-0.1eV).png>
+Package pdftex.def Info: roughly_biased_junction_spectra(-0.1eV).png  used on input line 38.
+(pdftex.def)             Requested size: 183.6007pt x 113.4256pt.
+<varying_bias.png, id=4, 568.524pt x 351.2322pt>
+File: varying_bias.png Graphic file (type png)
+<use varying_bias.png>
+Package pdftex.def Info: varying_bias.png  used on input line 42.
+(pdftex.def)             Requested size: 183.6007pt x 113.4256pt.
+
+
+LaTeX Warning: Float too large for page by 2.48016pt on input line 45.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<U1_-0.2.png, id=5, 568.524pt x 351.2322pt>
+File: U1_-0.2.png Graphic file (type png)
+<use U1_-0.2.png>
+Package pdftex.def Info: U1_-0.2.png  used on input line 48.
+(pdftex.def)             Requested size: 183.6007pt x 113.4256pt.
+<U1_0.2.png, id=6, 568.524pt x 351.2322pt>
+File: U1_0.2.png Graphic file (type png)
+<use U1_0.2.png>
+Package pdftex.def Info: U1_0.2.png  used on input line 53.
+(pdftex.def)             Requested size: 183.6007pt x 113.4256pt.
+<unbiased_junction_spectra.png, id=7, 568.524pt x 351.2322pt>
+File: unbiased_junction_spectra.png Graphic file (type png)
+<use unbiased_junction_spectra.png>
+Package pdftex.def Info: unbiased_junction_spectra.png  used on input line 58.
+(pdftex.def)             Requested size: 183.6007pt x 113.4256pt.
+<roughly_biased_junction_spectra.png, id=8, 568.524pt x 351.2322pt>
+File: roughly_biased_junction_spectra.png Graphic file (type png)
+<use roughly_biased_junction_spectra.png>
+Package pdftex.def Info: roughly_biased_junction_spectra.png  used on input line 62.
+(pdftex.def)             Requested size: 183.6007pt x 113.4256pt.
+
+LaTeX Warning: Float too large for page by 2.48016pt on input line 65.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+] [2 <./prob_density.png (PNG copy)> <./biased_junction.png (PNG copy)> <./roughly_biased_junction_spectra(-0.1eV).png (PNG copy)> <./varying_bias.png (PNG copy)>] [3
+
+ <./U1_-0.2.png (PNG copy)> <./U1_0.2.png (PNG copy)> <./unbiased_junction_spectra.png (PNG copy)> <./roughly_biased_junction_spectra.png (PNG copy)>] (./NW_HW2_HoangNguyen.aux) ) 
+Here is how much of TeX's memory you used:
+ 1841 strings out of 476025
+ 35160 string characters out of 5790017
+ 1862388 words of memory out of 5000000
+ 22304 multiletter control sequences out of 15000+600000
+ 516581 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,8n,77p,317b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on NW_HW2_HoangNguyen.pdf (3 pages, 430140 bytes).
+PDF statistics:
+ 47 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,74 @@
+\documentclass[twocolumn]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum} % Generates dummy text
+\usepackage{graphicx} % Required for including images
+
+\title{Title of the Scientific Report}
+\author{Hoang Nguyen \\ \textit{Universite de Bourgogne}}
+\date{\today} % Today's date or a custom date
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This is the abstract of the scientific report. The abstract briefly summarizes the main findings and conclusions of the report.
+\end{abstract}
+
+\section{Introduction}
+\lipsum[1] % Dummy text; replace with your text
+
+\subsection{Subsection Title}
+\lipsum[3] % Dummy text; replace with your text
+
+\section{Results}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{prob_density.png}
+    \caption{Example figure caption.}
+    \label{fig:example-1}
+
+    \centering
+    \includegraphics[width=0.8\linewidth]{biased_junction.png}
+    \caption{Example figure caption.}
+    \label{fig:example-2}
+
+    \centering
+    \includegraphics[width=0.8\linewidth]{roughly_biased_junction_spectra(-0.1eV).png}
+    \caption{Example figure caption.}
+    \label{fig:example-7}
+    \centering
+    \includegraphics[width=0.8\linewidth]{varying_bias.png}
+    \caption{Example figure caption.}
+    \label{fig:example-8}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{U1_-0.2.png}
+    \caption{Example figure caption.}
+    \label{fig:example-3}
+
+    \centering
+    \includegraphics[width=0.8\linewidth]{U1_0.2.png}
+    \caption{Example figure caption.}
+    \label{fig:example-4}
+
+    \centering
+    \includegraphics[width=0.8\linewidth]{unbiased_junction_spectra.png}
+    \caption{Example figure caption.}
+    \label{fig:example-5}
+    \centering
+    \includegraphics[width=0.8\linewidth]{roughly_biased_junction_spectra.png}
+    \caption{Example figure caption.}
+    \label{fig:example-6}
+\end{figure}
+
+\section{Discussion}
+\lipsum[6] % Dummy text; replace with your text
+
+\section{Conclusion}
+\lipsum[7] % Dummy text; replace with your text
+
+
+\end{document}
